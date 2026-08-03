@@ -2,7 +2,8 @@
 // Base URL is read from .env (REACT_APP_API_URL) so it's easy to change
 // between local dev and production without touching the code.
 
-const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8080";
+// const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8080";
+const API_URL = process.env.REACT_APP_API_URL="http://195.88.211.214:8080";
 
 async function request(path, { method = "GET", body, token } = {}) {
   const headers = { "Content-Type": "application/json" };
