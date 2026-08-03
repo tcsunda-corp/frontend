@@ -1,0 +1,7 @@
+[
+  { "name": ["Toko Budi Cabang 1", true], "quantity": 248, "date": "2 Agu 2026", "progress": 88 },
+  { "name": ["Toko Budi Cabang 2", true], "quantity": 165, "date": "2 Agu 2026", "progress": 62 },
+  { "name": ["Toko Budi - Pasar Baru", false], "quantity": 92, "date": "1 Agu 2026", "progress": 40 },
+  { "name": ["Toko Budi - Kelapa Gading", true], "quantity": 301, "date": "2 Agu 2026", "progress": 95 },
+  { "name": ["Toko Budi - Bekasi", false], "quantity": 54, "date": "31 Jul 2026", "progress": 21 }
+]
